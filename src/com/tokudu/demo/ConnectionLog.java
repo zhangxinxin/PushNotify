@@ -77,4 +77,5 @@ public class ConnectionLog
 	{
 		mWriter.close();
 	}
+	
 }
